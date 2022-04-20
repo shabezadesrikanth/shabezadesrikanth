@@ -1,0 +1,4 @@
+- 👋 Hi, I’m shabezade srikanth
+- 🌱 I’m currently learning Data science
+- 💞️ I’m looking to collaborate on Data science projects
+- 📫 How to reach me srikanthsahebzade@gmail.com
